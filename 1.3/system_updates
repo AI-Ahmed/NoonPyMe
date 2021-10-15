@@ -1,0 +1,7 @@
+- New Feature has been added to the program ‒ now you can search for the keyword of lists of product you would like.
+
+- Fix the prefix limit amount of scrape – now you're able to scrape 200 products at once, instead of 50 for each.
+
+- Logging time is now local – according to some demand from users to able to detect their faults.
+
+- setup version: 1.3x.
