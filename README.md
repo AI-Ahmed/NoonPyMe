@@ -1,7 +1,6 @@
 # NoonPyMe
 
 ![](https://img.shields.io/apm/l/python?style=plastic)
-![docker](https://img.shields.io/docker/cloud/build/DrStarkXavier/NoonPyMe/1.3)
 
 NoonPyMe is an application that provides the user the ability to insert their keyword to the program for scraping products, brands, or sections from noon.com, or by inserting a directed link to the page that you want to scrape.
 
