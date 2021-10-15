@@ -1,0 +1,9 @@
+- Change the driver building structure ‒ so, now the use has the ability to call the driver with less time and more mobility.
+
+- Driver now is the main stream object. So, you don't need to care about re-engineering build setup anymore.
+
+- Product count is not a static method anymore.
+
+- Logging timestamp now is located to gmt timestamp.
+
+- Setup version: 1.2x
